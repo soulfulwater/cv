@@ -1,4 +1,4 @@
-##aaronjackcreative@gmail.com
+## aaronjackcreative@gmail.com
 
 I'm a Python developer specialising in web based software, currently looking for an opportunity to utilise my skills in an inspiring environment. I like to constantly push myself to learn new things while staying focused on taking projects out of development and into the hands of users. I enjoy sharing my knowledge and I'm an effective verbal and written communicator.
 
@@ -6,7 +6,7 @@ I'm a Python developer specialising in web based software, currently looking for
 
 Python, Django, Flask, HTML, CSS, MySQL
 
-##Experience
+## Experience
 
 **Jan 14 – Present, Freelance Developer**
 
@@ -34,7 +34,7 @@ Please note: I am *not* looking for any WordPress based work.
 
 
 
-##Personal Projects
+## Personal Projects
 
 [**spacex.ajdev.co.uk**](http://spacex.ajdev.co.uk)
 
@@ -48,7 +48,7 @@ When: March 2018 (In development)
 
 Server-side (Django) development of a task list/goals list manager allowing the user to submit a list of goals and assign tasks(and subtasks) to them being developed in collaboration with members of Helm (co-working space), Doncaster. 
 
-##Other
+## Other
 
 I'm currently studying Computer Science via the resources on [https://teachyourselfcs.com/](https://teachyourselfcs.com/) and I would be interested in learning/working on a JS Framework like Angular, React or Vue.
 
