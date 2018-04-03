@@ -20,7 +20,7 @@ Features:
 * Wagtail CMS 
 * MySQL Database
 * Jinja2 Templates
-* Bootstrap3 Frontend
+* Bootstrap 3 Frontend
 * Importing and validating users and existing data from excel documents 
 * Automated deployment to www.pythonanywhere.com with Git/Fabric
 
@@ -29,8 +29,6 @@ ___
 Developement of smaller e-commerce client sites in WordPress:
 
 [Ruth Allen Portraits](http://ruthallenportraits.co.uk)
-
-Please note: I am *not* looking for any WordPress based work.
 
 
 
@@ -46,7 +44,7 @@ A simple Flask App that consumes data from a community maintained SpaceX Rest AP
 
 When: March 2018 (In development)
 
-Server-side (Django) development of a task list/goals list manager allowing the user to submit a list of goals and assign tasks(and subtasks) to them being developed in collaboration with members of Helm (co-working space), Doncaster. 
+Server-side (Django) development of a task list/goals list manager allowing the user to submit a list of goals and assign tasks(and subtasks) to them. Being developed in collaboration with members of Helm (co-working space), Doncaster. 
 
 ## Other
 
