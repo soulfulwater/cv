@@ -6,9 +6,9 @@ I'm a Python developer specialising in web based software, currently looking for
 
 Python, Django, Flask, HTML, CSS, MySQL
 
-## Experience
+## Recent Experience
 
-**Jan 14 – Present, Freelance Developer**
+**Jan 2016 – Present, Freelance Developer**
 
 Full stack development of Python / Django web app for a leading Education Coaching company allowing schools to assess the performance of their staff and highlight improvement areas.
 
@@ -17,7 +17,6 @@ Features:
 * Extended User Profile for custom user options
 * PDF Reports and Invoices leveraging ReportLab
 * Stripe Payment integration
-* Wagtail CMS 
 * MySQL Database
 * Jinja2 Templates
 * Bootstrap 3 Frontend
@@ -26,10 +25,13 @@ Features:
 
 ___
 
-Developement of smaller e-commerce client sites in WordPress:
+Developement of smaller e-commerce or brochure sites in WordPress:
+
+[MEYSO](http://www.meysports.com/)
 
 [Ruth Allen Portraits](http://ruthallenportraits.co.uk)
 
+[Face2Face Agency](https://www.face2faceagency.co.uk/)
 
 
 ## Personal Projects
@@ -38,25 +40,11 @@ Developement of smaller e-commerce client sites in WordPress:
 
 When: March 2018
 
-A simple Flask App that consumes data from a community maintained SpaceX Rest API (no database).
-
-**ottat.io** *(One Thing at a Time)*
-
-When: March 2018 (In development)
-
-Server-side (Django) development of a task list/goals list manager allowing the user to submit a list of goals and assign tasks(and subtasks) to them. Being developed in collaboration with members of Helm (co-working space), Doncaster. 
+A simple Flask App that consumes data from a community maintained SpaceX Rest API.
 
 ## Other
-
-I'm currently studying Computer Science via the resources on [https://teachyourselfcs.com/](https://teachyourselfcs.com/) and I would be interested in learning/working on a JS Framework like Angular, React or Vue.
 
 Full UK Driving Licence
 
 Co-founded not-for-profit youth enagagement social enterprise, Breaking Beats Ltd. Breaking Beats works with young people and provides activities to enrich young peoples lives in South Yorkshire.
-
-
-
-
-
-
 
